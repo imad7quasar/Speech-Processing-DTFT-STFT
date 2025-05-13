@@ -21,9 +21,14 @@ A Python-based desktop application for speech processing, visualization, and edu
 
 ## 🖼 Screenshots
 
-<img src="screenshots/waveform.png" width="400" />
-<img src="screenshots/spectrogram.png" width="400" />
-<img src="screenshots/mfcc.png" width="400" />
+<img src="screenshots/1.png" width="400" />
+<img src="screenshots/2.png" width="400" />
+<img src="screenshots/3.png" width="400" />
+<img src="screenshots/4.png" width="400" />
+<img src="screenshots/5.png" width="400" />
+
+
+
 
 ---
 
